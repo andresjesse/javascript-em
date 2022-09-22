@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Fulano", "provas": [7, 8, 9, 7] },
+  { "id": 2, "name": "Ciclano", "provas": [10, 10, 10, 10] }
+]
